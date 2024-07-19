@@ -4,3 +4,6 @@
 [submodule "CFPropertyList"]
 	path = CFPropertyList
 	url = https://github.com/arx8x/CFPropertyList
+[submodule "img4lib"]
+	path = img4lib
+	url = https://github.com/xerub/img4lib
